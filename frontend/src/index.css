@@ -134,6 +134,11 @@ body::before {
   transform: translateY(-2px);
 }
 
+.form-group select option {
+  background-color: #1e1e24; /* Solid dark background for legibility */
+  color: #ffffff;
+}
+
 .btn-primary {
   width: 100%;
   padding: 1.1rem;
